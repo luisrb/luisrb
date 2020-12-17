@@ -9,7 +9,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/luis-rodellar/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/luis-rodellar/" height="30" width="40" /></a>
 </p>
------
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 
@@ -23,7 +23,7 @@
 </p>
 
 
-------
+
 <h2 align="left">FrontEnd:</h2>
 <p align="left"> 
 <a href="https://angular.io" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="angularjs" width="40" height="40"/> </a> 
