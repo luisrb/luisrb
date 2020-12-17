@@ -1,7 +1,7 @@
 <h1 align = "center"> Hola 👋, soy luis </h1>
 <h3 align = "center"> Un apasionado desarrollador FullStack de España </h3>
 
-- 🌱 Actualmente estoy aprendiendo ** Angular, nodo * *
+- 🌱 Actualmente estoy aprendiendo ** Angular, node.js * *
 
 - ⚡ Dato curioso ** Creo que soy divertido **
 
